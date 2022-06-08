@@ -12,4 +12,11 @@
 2. NodeJS server and frontend has been done using bootstrap
 
 ## Filesystem
-![photo.png](photo.png)
+![images/photo.png](images/photo.png)
+
+## Example Screenshots
+
+![images/1.png](images/1.png)
+
+
+![images/2.png](images/2.png)
